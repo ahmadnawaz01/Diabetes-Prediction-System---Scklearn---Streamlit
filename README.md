@@ -2,7 +2,6 @@
 
 An end-to-end Machine Learning web application that predicts the likelihood of diabetes based on clinical diagnostic metrics. The system utilizes a Support Vector Machine (SVM) classifier for predictions, wrapped in an interactive user interface built with Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_APP_SUBDOMAIN.streamlit.app)
 
 ---
 
