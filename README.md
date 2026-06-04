@@ -7,7 +7,7 @@ An end-to-end Machine Learning web application that predicts the likelihood of d
 ---
 
 ## 🚀 Live Demo
-Access the deployed web application here: [[[Diabetes Predictive System](https://YOUR_APP_SUBDOMAIN.streamlit.app)](https://diabetes-prediction-system---scklearn---app-8kpe99hnltcja7swdh.streamlit.app/)](https://diabetes-prediction-system---scklearn---app-8kpe99hnltcja7swdh.streamlit.app/)
+Access the deployed web application here: https://diabetes-prediction-system---scklearn---app-8kpe99hnltcja7swdh.streamlit.app/
 
 ---
 
