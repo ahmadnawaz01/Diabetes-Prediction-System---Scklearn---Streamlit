@@ -3,7 +3,6 @@ import pickle
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
-# 1. Page Config & Aesthetic Theme Setup
 st.set_page_config(
     page_title="Diabetes Predictor Engine",
     page_icon="🩺",
